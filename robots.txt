@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://conroter.github.io/sitemap.html.gz
+Sitemap: https://conroter.github.io/app/sitemap.html.gz
+Sitemap: https://conroter.github.io/assets/sitemap.html.gz
+Sitemap: https://conroter.github.io/css/sitemap.html.gz
+Sitemap: https://conroter.github.io/includes/sitemap.html.gz
+Sitemap: https://conroter.github.io/item/sitemap.html.gz
+Sitemap: https://conroter.github.io/src/sitemap.html.gz
